@@ -16,6 +16,7 @@ nav {
 
 body {
     background-color: #ECF9FD;
+    overflow: none;
 }
 
 nav ul {
